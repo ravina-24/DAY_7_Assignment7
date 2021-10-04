@@ -11,6 +11,11 @@ namespace DAY_7_Assignment7
 
             SecondLargestAndSmallest secondLargest = new SecondLargestAndSmallest();
             secondLargest.FindSecondLargest();
+
+
+            Binary binary = new Binary();
+            binary.findBinary();
         }
+
     }
 }
