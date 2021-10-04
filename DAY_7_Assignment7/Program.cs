@@ -6,8 +6,8 @@ namespace DAY_7_Assignment7
     {
         static void Main(string[] args)
         {
-            //PrimeFactors primeFactors = new PrimeFactors();
-            //primeFactors.findPrimeFactors();
+            PrimeFactors primeFactors = new PrimeFactors();
+            primeFactors.findPrimeFactors();
 
             SecondLargestAndSmallest secondLargest = new SecondLargestAndSmallest();
             secondLargest.FindSecondLargest();
