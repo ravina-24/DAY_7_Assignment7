@@ -58,7 +58,6 @@ namespace DAY_7_Assignment7
                 }
             }
 
-
             Console.WriteLine("Second smallest element = " +secondSmallest);
         }
 
